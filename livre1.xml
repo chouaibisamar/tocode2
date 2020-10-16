@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding=" ISO-8859-1"?>
+<livre>
+    <titre>Mon livre</titre>
+    <auteurs>
+        <auteur>
+            <nom>chouaibi</nom>
+            <prenom>samar</prenom>
+        </auteur>
+        <auteur>
+            <nom>gharbi</nom>
+            <prenom>houyem</prenom>
+        </auteur>
+    </auteurs>
+    <sections>
+        <section>
+            <titre>Section 1</titre>
+            <chapitres>
+                <chapitre>
+                    <titre>Chapitre 1</titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe111</paragraphe>
+                        <paragraphe>paragraphe211</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <titre>Chapitre 2</titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe121</paragraphe>
+                        <paragraphe>paragraphe221</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+        <section>
+            <titre>Section 2</titre>
+            <chapitres>
+                <chapitre>
+                    <titre>Chapitre 1</titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe112</paragraphe>
+                        <paragraphe>paragraphe212</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <titre>Chapitre 2</titre>
+                    <paragraphes>
+                        <paragraphe>paragraphe122</paragraphe>
+                        <paragraphe>paragraphe222</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+    </sections>
+</livre>
